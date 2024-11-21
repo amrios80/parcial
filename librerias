@@ -1,0 +1,7 @@
+c:/Users/amrio/AppData/Local/Programs/Python/Python37/python.exe -m pip install ipykernel -U --user --force-reinstall
+
+C:\Users\amrio>c:/Users/amrio/AppData/Local/Programs/Python/Python37/python.exe -m pip install scikit-learn
+
+C:\Users\amrio>c:/Users/amrio/AppData/Local/Programs/Python/Python37/python.exe -m pip install numpy
+
+C:\Users\amrio>c:/Users/amrio/AppData/Local/Programs/Python/Python37/python.exe -m pip install pandas
